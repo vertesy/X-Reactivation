@@ -1,0 +1,2 @@
+
+In Fig.S4 we generated and analyzed targeted methylation data. We confirmed the reanalysis of the Guo et al 2015 data, therefore the analyses provided in this folder are less relevant.
