@@ -1,9 +1,7 @@
-# X-Reactivation
+# Parental haplotype-specific single-cell transcriptomics reveal incomplete epigenetic reprogramming in human female germ cells.
 Analysis scripts for the paper: 
 
-## **Parental haplotype specific single-cell transcriptomics reveal incomplete epigenetic reprogramming in human female germ cells**
-
-by Vertesy et al., 2018
+#### Vértesy, Á. et al., 2018. Parental haplotype-specific single-cell transcriptomics reveal incomplete epigenetic reprogramming in human female germ cells. Nature Communications, 9(1), p.1873. Available at: http://www.ncbi.nlm.nih.gov/pubmed/29760424.
 
 
 
